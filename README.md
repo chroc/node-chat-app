@@ -6,6 +6,8 @@ Real time chat app using Socket.IO
 
 ## How to use it
 
+![ChatApp_Join](public/img/join.png)
+
 Enter an username and type the Room you want to join. People in the same Room will be available to chat.
 
 Share your live location.
