@@ -27,7 +27,7 @@ const addUser = ({ id, username, room }) => {
         };
     }
 
-    // srtore user
+    // Store user
     const user = { id, username, room };
     users.push(user);
     return { user };
